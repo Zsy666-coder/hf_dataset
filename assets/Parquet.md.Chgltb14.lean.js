@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as t,ae as h}from"./chunks/framework.Dh1jimFm.js";const g=JSON.parse('{"title":"三、 Parquet","description":"","frontmatter":{},"headers":[],"relativePath":"Parquet.md","filePath":"Parquet.md"}'),n={name:"Parquet.md"};function l(k,s,p,e,E,d){return t(),a("div",null,s[0]||(s[0]=[h("",15)]))}const o=i(n,[["render",l]]);export{g as __pageData,o as default};

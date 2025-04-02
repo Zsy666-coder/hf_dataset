@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ae as t}from"./chunks/framework.BAoZ82iM.js";const g=JSON.parse('{"title":"五、Arrow","description":"","frontmatter":{},"headers":[],"relativePath":"Arrow.md","filePath":"Arrow.md"}'),n={name:"Arrow.md"};function k(l,s,p,e,E,r){return h(),a("div",null,s[0]||(s[0]=[t("",14)]))}const F=i(n,[["render",k]]);export{g as __pageData,F as default};
