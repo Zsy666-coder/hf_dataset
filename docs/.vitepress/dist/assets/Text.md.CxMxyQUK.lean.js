@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as n}from"./chunks/framework.Dh1jimFm.js";const o=JSON.parse('{"title":"四、Text","description":"","frontmatter":{},"headers":[],"relativePath":"Text.md","filePath":"Text.md"}'),h={name:"Text.md"};function e(p,s,l,k,d,r){return t(),a("div",null,s[0]||(s[0]=[n("",15)]))}const g=i(h,[["render",e]]);export{o as __pageData,g as default};
